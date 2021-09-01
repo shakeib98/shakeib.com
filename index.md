@@ -12,8 +12,6 @@ I graduated from University Of Karachi with a B.Sc. in Software Engineering in 2
 
 - [Synthetix: Derivatives On The Blocks - Co-Author](https://xord.com/publications/synthetix-derivatives-on-the-blocks/)
 
-- [Uncovering Stablecoins - Co-Author](https://xord.com/publications/uncovering-stable-coins/)
-
 - [XLabs — Nerds of Xord - Author](https://medium.com/xord/xlabs-nerds-of-xord-a1e33866a0ec)
 
 - [Uniswap V3: Power To Liquidity Provider - Co-Author](https://xord.com/publications/uniswap-v3-power-to-liquidity-providers/)
