@@ -6,8 +6,6 @@ layout: default
 
 I graduated from University Of Karachi with a B.Sc. in Software Engineering in 2020. I started my career as an Android developer in a very small company here in Karachi. But after 3 months of working as an Android developer, I shifted to blockchain space and joined Xord as Blockchain Developer. Fast forward 2 years, I am currently working as the CTO 👨‍💻 and Head of R&D 🔎. I have amazing team of 15 people 😎. Currently I am researching on Polkadot and ETH 2.0.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
 # Write-ups ✒️
 
 - [Uncovering Stablecoins - Co-Author](https://xord.com/publications/uncovering-stable-coins/)
