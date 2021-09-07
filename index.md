@@ -6,7 +6,7 @@ layout: default
 
 I graduated from University Of Karachi with a B.Sc. in Software Engineering in 2020. I started my career as an Android developer in a very small company here in Karachi. But after 3 months of working as an android developer, I shifted to blockchain space and joined Xord as blockchain Developer. Fast forward 2 years, I am currently working as the CTO 👨‍💻 and Head of R&D 🔎. I have an amazing team of 15 people 😎. Currently I am researching on Polkadot and ETH 2.0.
 
-Owner of 8Bit#2016
+Owner of FusionApe#2878
 
 # Write-ups ✒️
 
